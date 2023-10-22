@@ -1,7 +1,7 @@
 import random
 import time
 
-# Simulated stock data
+# List of stock data
 stocks = [
     {"name": "ABC Pvt Ltd", "symbol": "A", "price": 100.0, "historical_prices": []},
     {"name": "XYZ LLC", "symbol": "B", "price": 150.0, "historical_prices": []},
